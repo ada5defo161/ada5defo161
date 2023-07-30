@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ada5defo161
+- 👀 I’m interested in Android. I’m currently learning Kotlin.
+- 🌱 Software Engineering student with a knack for Kotlin. Android development enthusiast. Always learning.
